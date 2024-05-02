@@ -1,4 +1,4 @@
-# Rusty-Sando (re-write) ![license](https://img.shields.io/badge/License-MIT-green.svg?label=license) ![twitter](https://img.shields.io/twitter/follow/0xMouseless?style=social)
+# Simple_MEV (re-write) ![license](https://img.shields.io/badge/License-MIT-green.svg?label=license) ![twitter](https://img.shields.io/twitter/follow/0xMouseless?style=social)
 A practical example on how to perform V2/V3 and multi-meat sandwich attacks written using Rust and Huff.
 
 The goal of this repo is to act as reference material for aspiring searchers. 
